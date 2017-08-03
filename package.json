@@ -1,0 +1,27 @@
+{
+  "name": "facebook-live-backup",
+  "version": "1.0.0",
+  "description": "Backup facebook messages live",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazilotus/Facebook-Live-Backup.git"
+  },
+  "keywords": [
+    "facebook",
+    "live",
+    "backup",
+    "track",
+    "tracker",
+    "spy"
+  ],
+  "author": "kazilotus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kazilotus/Facebook-Live-Backup/issues"
+  },
+  "homepage": "https://github.com/kazilotus/Facebook-Live-Backup#readme"
+}
