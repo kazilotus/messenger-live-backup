@@ -1,0 +1,7 @@
+{
+    "path" : {
+        "tmp" : "./tmp/",
+        "data" : "./data/"
+    },
+    "download-external-content": false
+}
